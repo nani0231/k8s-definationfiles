@@ -12,7 +12,7 @@ spec:
       image: postgres
       env:
         - name: POSTGRES_PASSWORD
-          value: intelliqit
+          value: synergy
         - name: POSTGRES_USER
           value: myuser
         - name: POSTGRES_DB
